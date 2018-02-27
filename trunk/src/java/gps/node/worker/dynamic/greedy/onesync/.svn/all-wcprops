@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/node/worker/dynamic/greedy/onesync
+END
+OneSyncDynamicMessagesParserThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/node/worker/dynamic/greedy/onesync/OneSyncDynamicMessagesParserThread.java
+END
+OneSyncLaggingGreedyDynamicGPSWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/node/worker/dynamic/greedy/onesync/OneSyncLaggingGreedyDynamicGPSWorker.java
+END
+OneSyncDynamicMessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/node/worker/dynamic/greedy/onesync/OneSyncDynamicMessageSender.java
+END
+ReceivedVertexDataWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/phd-projects/!svn/ver/51/gps/trunk/src/java/gps/node/worker/dynamic/greedy/onesync/ReceivedVertexDataWrapper.java
+END

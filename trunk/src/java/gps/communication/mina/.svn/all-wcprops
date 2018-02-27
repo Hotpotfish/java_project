@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/communication/mina
+END
+ServerConnectionsEstablisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/communication/mina/ServerConnectionsEstablisher.java
+END
+BaseConnectionsEstablisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/communication/mina/BaseConnectionsEstablisher.java
+END
+MessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/51/gps/trunk/src/java/gps/communication/mina/MessageEncoder.java
+END
+ClientConnectionsEstablisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/communication/mina/ClientConnectionsEstablisher.java
+END
+MessageCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/phd-projects/!svn/ver/36/gps/trunk/src/java/gps/communication/mina/MessageCodecFactory.java
+END
+MessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/90/gps/trunk/src/java/gps/communication/mina/MessageDecoder.java
+END
+MinaMessageSenderAndReceiverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/communication/mina/MinaMessageSenderAndReceiverFactory.java
+END
+BaseMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/phd-projects/!svn/ver/105/gps/trunk/src/java/gps/communication/mina/BaseMessageHandler.java
+END
+BaseMinaMessageSenderAndReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/communication/mina/BaseMinaMessageSenderAndReceiver.java
+END
+GPSNodeExceptionNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/phd-projects/!svn/ver/46/gps/trunk/src/java/gps/communication/mina/GPSNodeExceptionNotifier.java
+END

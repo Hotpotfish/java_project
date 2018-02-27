@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/coloring
+END
+ColoringMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/coloring/ColoringMessage.java
+END
+JobConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/coloring/JobConfiguration.java
+END
+ColoringVertexValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/coloring/ColoringVertexValue.java
+END
+ColoringMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/coloring/ColoringMaster.java
+END
+ColoringOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/coloring/ColoringOptions.java
+END
+ColoringVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/coloring/ColoringVertex.java
+END

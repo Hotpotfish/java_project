@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/scc
+END
+SCCBaseMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/scc/SCCBaseMaster.java
+END
+SCCBaseVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/scc/SCCBaseVertex.java
+END
+SCCVertexValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/SCCVertexValue.java
+END
+SCCOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/SCCOptions.java
+END
+SCCBaseJobConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/SCCBaseJobConfiguration.java
+END
+SCCMessageValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/SCCMessageValue.java
+END
+SCCComputationPhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/SCCComputationPhase.java
+END

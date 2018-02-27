@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/globalobjects
+END
+BooleanOrGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/BooleanOrGlobalObject.java
+END
+DoubleMaxGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/DoubleMaxGlobalObject.java
+END
+GraphWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/globalobjects/GraphWritable.java
+END
+NullValueGraphGObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/globalobjects/NullValueGraphGObj.java
+END
+LongSumGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/LongSumGlobalObject.java
+END
+StreamingRootPickerGObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/globalobjects/StreamingRootPickerGObj.java
+END
+BooleanOverwriteGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/BooleanOverwriteGlobalObject.java
+END
+IntegerIntegerSumMapGObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/globalobjects/IntegerIntegerSumMapGObj.java
+END
+IntGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/IntGlobalObject.java
+END
+IntMinGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/IntMinGlobalObject.java
+END
+IntMaxGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/IntMaxGlobalObject.java
+END
+GlobalObjectsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/phd-projects/!svn/ver/70/gps/trunk/src/java/gps/globalobjects/GlobalObjectsMap.java
+END
+BooleanANDGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/BooleanANDGlobalObject.java
+END
+LongMinGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/LongMinGlobalObject.java
+END
+LongMaxGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/LongMaxGlobalObject.java
+END
+FloatGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/FloatGlobalObject.java
+END
+IntSetGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/globalobjects/IntSetGlobalObject.java
+END
+FloatProductGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/FloatProductGlobalObject.java
+END
+DoubleProductGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/DoubleProductGlobalObject.java
+END
+FloatOverwriteGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/FloatOverwriteGlobalObject.java
+END
+GlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/GlobalObject.java
+END
+DoubleOverwriteGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/globalobjects/DoubleOverwriteGlobalObject.java
+END
+StreamingRandomRootPickerMapGObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/globalobjects/StreamingRandomRootPickerMapGObj.java
+END
+FloatSumGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/FloatSumGlobalObject.java
+END
+IntProductGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/IntProductGlobalObject.java
+END
+LongGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/LongGlobalObject.java
+END
+DoubleSumGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/DoubleSumGlobalObject.java
+END
+LongProductGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/LongProductGlobalObject.java
+END
+IntOverwriteGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/IntOverwriteGlobalObject.java
+END
+LongOverwriteGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/LongOverwriteGlobalObject.java
+END
+IntegerSetGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/globalobjects/IntegerSetGlobalObject.java
+END
+FloatMinGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/FloatMinGlobalObject.java
+END
+DoubleGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/DoubleGlobalObject.java
+END
+FloatMaxGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/FloatMaxGlobalObject.java
+END
+DoubleMinGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/DoubleMinGlobalObject.java
+END
+BooleanGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/BooleanGlobalObject.java
+END
+IntSumGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/61/gps/trunk/src/java/gps/globalobjects/IntSumGlobalObject.java
+END

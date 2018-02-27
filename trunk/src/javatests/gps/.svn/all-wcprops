@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/javatests/gps
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/phd-projects/!svn/ver/39/gps/trunk/src/javatests/gps/TestUtils.java
+END
+BaseGPSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/phd-projects/!svn/ver/32/gps/trunk/src/javatests/gps/BaseGPSTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/javatests/gps/AllTests.java
+END
+EasyMockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/javatests/gps/EasyMockTest.java
+END

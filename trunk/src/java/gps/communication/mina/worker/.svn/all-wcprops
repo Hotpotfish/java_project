@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/communication/mina/worker
+END
+ClientConnectionsEstablisherForWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/communication/mina/worker/ClientConnectionsEstablisherForWorker.java
+END
+ServerConnectionsEstablisherForWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/communication/mina/worker/ServerConnectionsEstablisherForWorker.java
+END
+MessageHandlerForWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/communication/mina/worker/MessageHandlerForWorker.java
+END
+MinaMessageSenderAndReceiverForWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/communication/mina/worker/MinaMessageSenderAndReceiverForWorker.java
+END

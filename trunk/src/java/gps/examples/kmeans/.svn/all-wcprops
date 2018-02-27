@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/kmeans
+END
+KMeansClusterCentersGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/phd-projects/!svn/ver/65/gps/trunk/src/java/gps/examples/kmeans/KMeansClusterCentersGlobalObject.java
+END
+KMeansVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/kmeans/KMeansVertex.java
+END
+KMeansComputationStageGlobalObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/phd-projects/!svn/ver/65/gps/trunk/src/java/gps/examples/kmeans/KMeansComputationStageGlobalObject.java
+END
+KMeansGlobalObjectNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/phd-projects/!svn/ver/65/gps/trunk/src/java/gps/examples/kmeans/KMeansGlobalObjectNames.java
+END
+KMeansMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/phd-projects/!svn/ver/65/gps/trunk/src/java/gps/examples/kmeans/KMeansMaster.java
+END

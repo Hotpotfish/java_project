@@ -1,0 +1,29 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.InputStreamReader;
+import java.util.*;
+public class test3 {
+	public static void main(String args[])
+	{
+		
+		try
+		{
+			File file = new File("Backup 2015_11_16 (001).SMS");
+			InputStreamReader isr = new InputStreamReader(new FileInputStream(file), "UTF-8");  
+			BufferedReader br = new BufferedReader(isr);
+			String line = new String();
+			while((line = br.readLine()) != null)
+			{
+				System.out.println(line);
+			}
+		}
+		catch(Exception e)
+		{
+			
+		}
+		
+	}
+
+}

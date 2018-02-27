@@ -1,0 +1,41 @@
+package cryptology;
+
+public class TheBlockCipherMode {
+	public static void main(String args[])
+	{
+		String a = "aaaabbbbaaaabbbb";
+		System.out.println(ECB(a,a));
+	}
+	public static String ECB(String p, String key)  //ECB模式
+	{
+		StringBuffer re = new StringBuffer();
+		if(p.length() % 16 != 0)
+		{
+			System.out.println("填充长度出错!!!");
+			return null;
+		}
+		if(key.length() != 16)
+		{
+			System.out.println("密文格式错误!!!");
+			return null;
+		}
+		int nu ;
+		nu = p.length() / 16;
+		String temp[] = new String[nu];
+		int round = 0;
+		while(round < nu)
+		{
+			temp[round] = new String();
+			temp[round]  = p.substring(round * 16, round * 16 + 16);
+			re.append(DES.cp(temp[round],key));
+			round ++;
+		}
+		return re.toString();		
+	}
+	public static String trebDes(String pt, String key1, String key2)  //三重des
+	{
+		return DES.cp(DES.pt(DES.cp(pt,key1),key2),key1);
+	}
+	
+
+}

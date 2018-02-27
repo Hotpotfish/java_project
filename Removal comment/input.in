@@ -1,0 +1,10 @@
+#include <stdio.h>
+// This is a test
+int main(int argc,/* Another test */ char *argv[])
+{
+printf("Hello, world\n");
+/*
+tdsgfdsfsdf dfgfdgfdg
+*/
+return 0;
+}

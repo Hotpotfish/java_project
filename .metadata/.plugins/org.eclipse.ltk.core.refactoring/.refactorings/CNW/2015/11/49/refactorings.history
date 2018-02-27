@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将编译单元“lab.FloydInGraph.java”重命名为“Dijkstra.java”&#x0D;&#x0A;－ 原始项目：“CNW”&#x0D;&#x0A;－ 原始元素：“lab.FloydInGraph.java”&#x0D;&#x0A;－ 重命名的元素：“lab.Dijkstra.java”" description="重命名编译单元“FloydInGraph.java”" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;lab{FloydInGraph.java" name="Dijkstra.java" references="false" stamp="1448852215284" version="1.0"/>
+</session>

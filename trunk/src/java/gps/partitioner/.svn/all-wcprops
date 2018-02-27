@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/partitioner
+END
+ClusterBalancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/ClusterBalancer.java
+END
+SequentialPregel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/phd-projects/!svn/ver/90/gps/trunk/src/java/gps/partitioner/SequentialPregel.java
+END
+AffinityPropagation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/partitioner/AffinityPropagation.java
+END
+SnapToGraclusConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/SnapToGraclusConverter.java
+END
+GraphRelabeler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/GraphRelabeler.java
+END
+SPVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/SPVertex.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/Cluster.java
+END
+GraphPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/GraphPartitioner.java
+END
+MergeClusters.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/MergeClusters.java
+END
+MinPairComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/90/gps/trunk/src/java/gps/partitioner/MinPairComparator.java
+END
+MaxPairComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/90/gps/trunk/src/java/gps/partitioner/MaxPairComparator.java
+END
+DomainIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/partitioner/DomainIdGenerator.java
+END
+OutputVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/phd-projects/!svn/ver/51/gps/trunk/src/java/gps/partitioner/OutputVerifier.java
+END
+PartitioningTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/phd-projects/!svn/ver/51/gps/trunk/src/java/gps/partitioner/PartitioningTester.java
+END
+AffinityPropagationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/AffinityPropagationUtils.java
+END
+TwoMajorClustersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/TwoMajorClustersGenerator.java
+END
+WriteGraphClusterAsSubgraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/WriteGraphClusterAsSubgraph.java
+END
+ClusterSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/ClusterSummary.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/Graph.java
+END
+GraphRelabeler2.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/GraphRelabeler2.java
+END
+ClusterSizeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/46/gps/trunk/src/java/gps/partitioner/ClusterSizeFinder.java
+END
+HadoopDirectedToUndirectedNormalizedConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/partitioner/HadoopDirectedToUndirectedNormalizedConverter.java
+END
+ConnectedComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/ConnectedComponents.java
+END
+PartitionsDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/phd-projects/!svn/ver/90/gps/trunk/src/java/gps/partitioner/PartitionsDumper.java
+END
+TotalMessagesCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/TotalMessagesCounter.java
+END
+SequentialNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/SequentialNormalizer.java
+END
+PartitionsSmoother.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/phd-projects/!svn/ver/90/gps/trunk/src/java/gps/partitioner/PartitionsSmoother.java
+END
+LargeVertexNetworkReductionCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/partitioner/LargeVertexNetworkReductionCounter.java
+END
+SNAPToMatlabSparseMatrixConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/SNAPToMatlabSparseMatrixConverter.java
+END
+RandomPartitionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/java/gps/partitioner/RandomPartitionGenerator.java
+END
+PartitionerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/partitioner/PartitionerUtils.java
+END
+SequentialPregelRandomCoarsening.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/SequentialPregelRandomCoarsening.java
+END
+HadoopNormalizerAndSparsifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/partitioner/HadoopNormalizerAndSparsifier.java
+END
+HadoopRelabeler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/HadoopRelabeler.java
+END
+UrlsWithIdsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/partitioner/UrlsWithIdsGenerator.java
+END
+HadoopPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/HadoopPartitioner.java
+END
+SequentialPregelInvitationMatchingCoarsening.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/phd-projects/!svn/ver/55/gps/trunk/src/java/gps/partitioner/SequentialPregelInvitationMatchingCoarsening.java
+END

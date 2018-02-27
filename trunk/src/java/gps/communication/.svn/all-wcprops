@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/communication
+END
+MessageSenderAndReceiverForWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/phd-projects/!svn/ver/51/gps/trunk/src/java/gps/communication/MessageSenderAndReceiverForWorker.java
+END
+MessageSenderAndReceiverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/communication/MessageSenderAndReceiverFactory.java
+END
+BaseMessageSenderAndReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/communication/BaseMessageSenderAndReceiver.java
+END

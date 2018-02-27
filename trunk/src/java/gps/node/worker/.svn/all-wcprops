@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/phd-projects/!svn/ver/112/gps/trunk/src/java/gps/node/worker
+END
+BaseMessageCommunicationThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/phd-projects/!svn/ver/32/gps/trunk/src/java/gps/node/worker/BaseMessageCommunicationThread.java
+END
+StaticGPSWorkerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/node/worker/StaticGPSWorkerImpl.java
+END
+GPSWorkerExposedGlobalVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/node/worker/GPSWorkerExposedGlobalVariables.java
+END
+MessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/node/worker/MessageSender.java
+END
+AbstractGPSWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/phd-projects/!svn/ver/112/gps/trunk/src/java/gps/node/worker/AbstractGPSWorker.java
+END
+StaticGPSMessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/node/worker/StaticGPSMessageSender.java
+END
+DataAndControlMessagesParserThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/node/worker/DataAndControlMessagesParserThread.java
+END

@@ -1,0 +1,32 @@
+package cryptology;
+
+public class TheBlockCipherMode {
+	public static void main(String args[])
+	{
+		String a = "aaabbbccc";
+		String b[];
+		b = a.split("\\",3);
+		System.out.println("填充长度出错!!!");
+	}
+	public static String ECB(String p, String key)
+	{
+		if(p.length() % 32 != 0)
+		{
+			System.out.println("填充长度出错!!!");
+			return null;
+		}
+		if(key.length() != 32)
+		{
+			System.out.println("密文格式错误!!!");
+			return null;
+		}
+		
+		
+	}
+	public static String trebDes(String pt, String key1, String key2)  //三重des
+	{
+		return DES.cp(DES.pt(DES.cp(pt,key1),key2),key1);
+	}
+	
+
+}

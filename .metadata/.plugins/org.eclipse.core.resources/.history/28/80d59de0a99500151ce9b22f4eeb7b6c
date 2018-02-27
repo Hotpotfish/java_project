@@ -1,0 +1,25 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.util.*;
+public class test3 {
+	public static void main(String args[])
+	{
+		
+		try
+		{
+			FileReader fr = new FileReader("Backup 2015_11_16 (001).SMS");
+			BufferedReader br = new BufferedReader(fr);
+			String line = new String();
+			while((line = br.readLine()) != null)
+			{
+				System.out.println(line);
+			}
+		}
+		catch(Exception e)
+		{
+			
+		}
+		
+	}
+
+}

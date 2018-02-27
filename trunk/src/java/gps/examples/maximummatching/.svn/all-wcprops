@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/maximummatching
+END
+JobConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/maximummatching/JobConfiguration.java
+END
+MatchingVertexValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/maximummatching/MatchingVertexValue.java
+END
+MatchingMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/maximummatching/MatchingMaster.java
+END
+MatchingOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/maximummatching/MatchingOptions.java
+END
+MatchingVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/maximummatching/MatchingVertex.java
+END
+MatchingMessageValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/phd-projects/!svn/ver/110/gps/trunk/src/java/gps/examples/maximummatching/MatchingMessageValue.java
+END

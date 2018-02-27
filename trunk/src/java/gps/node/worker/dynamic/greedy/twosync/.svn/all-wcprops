@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/node/worker/dynamic/greedy/twosync
+END
+ReceivedVertexDataWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/node/worker/dynamic/greedy/twosync/ReceivedVertexDataWrapper.java
+END
+TwoSyncGreedyDynamicGPSWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/node/worker/dynamic/greedy/twosync/TwoSyncGreedyDynamicGPSWorker.java
+END
+TwoSyncDynamicMessagesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/phd-projects/!svn/ver/73/gps/trunk/src/java/gps/node/worker/dynamic/greedy/twosync/TwoSyncDynamicMessagesParser.java
+END

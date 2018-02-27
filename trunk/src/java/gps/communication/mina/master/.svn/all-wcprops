@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/communication/mina/master
+END
+MessageHandlerForMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/communication/mina/master/MessageHandlerForMaster.java
+END
+MinaMessageSenderAndReceiverForMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/communication/mina/master/MinaMessageSenderAndReceiverForMaster.java
+END
+ClientConnectionsEstablisherForMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/communication/mina/master/ClientConnectionsEstablisherForMaster.java
+END
+ServerConnectionsEstablisherForMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/communication/mina/master/ServerConnectionsEstablisherForMaster.java
+END

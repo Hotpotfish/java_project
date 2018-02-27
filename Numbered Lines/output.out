@@ -1,0 +1,11 @@
+1 
+2 Make sure to close the I/O streams. 
+3 Input: A line of string, until no inut is found!  Example: 
+4 This is the first line.
+5 This is the second line.
+6 ...
+7 This is the end.
+8 
+9 Output: What you get from the file with line number as prefix.
+10 1 This is the first line.
+11 2 This is the second line.

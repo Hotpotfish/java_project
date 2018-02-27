@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/node/master/monitoring
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/phd-projects/!svn/ver/71/gps/trunk/src/java/gps/node/master/monitoring/Constants.java
+END
+HttpRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/phd-projects/!svn/ver/39/gps/trunk/src/java/gps/node/master/monitoring/HttpRequestMessage.java
+END
+HttpRequestDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/phd-projects/!svn/ver/39/gps/trunk/src/java/gps/node/master/monitoring/HttpRequestDecoder.java
+END
+HttpResponseEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/phd-projects/!svn/ver/39/gps/trunk/src/java/gps/node/master/monitoring/HttpResponseEncoder.java
+END
+HttpServerProtocolCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/phd-projects/!svn/ver/39/gps/trunk/src/java/gps/node/master/monitoring/HttpServerProtocolCodecFactory.java
+END
+BaseServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/phd-projects/!svn/ver/50/gps/trunk/src/java/gps/node/master/monitoring/BaseServerHandler.java
+END
+HttpResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/phd-projects/!svn/ver/39/gps/trunk/src/java/gps/node/master/monitoring/HttpResponseMessage.java
+END
+ServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/phd-projects/!svn/ver/50/gps/trunk/src/java/gps/node/master/monitoring/ServerHandler.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/phd-projects/!svn/ver/50/gps/trunk/src/java/gps/node/master/monitoring/Server.java
+END

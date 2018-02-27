@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/phd-projects/!svn/ver/91/gps/trunk/src/javatests/gps/node
+END
+UtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/phd-projects/!svn/ver/15/gps/trunk/src/javatests/gps/node/UtilsTests.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/javatests/gps/node/AllTests.java
+END
+MachineConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/phd-projects/!svn/ver/91/gps/trunk/src/javatests/gps/node/MachineConfigTests.java
+END
+GPSNodeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/phd-projects/!svn/ver/27/gps/trunk/src/javatests/gps/node/GPSNodeTests.java
+END

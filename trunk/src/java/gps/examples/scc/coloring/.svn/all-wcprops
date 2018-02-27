@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/coloring
+END
+JobConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/coloring/JobConfiguration.java
+END
+ColoringMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/coloring/ColoringMaster.java
+END
+ColoringVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/phd-projects/!svn/ver/107/gps/trunk/src/java/gps/examples/scc/coloring/ColoringVertex.java
+END
